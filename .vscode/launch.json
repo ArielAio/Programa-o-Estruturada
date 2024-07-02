@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "/home/ariel/Desktop/Faculdade/Programação Estruturada/Aula 10",
+      "program": "/home/ariel/Desktop/Faculdade/Programação Estruturada/Aula 10/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
